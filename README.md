@@ -20,3 +20,6 @@
 <h2>Após executar todo o passo a passo isso deve aparecer em seu navegador:</h2>
 
 ![image](https://github.com/user-attachments/assets/7c12fb3d-ce96-41e2-b726-e0dbceb25496)
+
+<br>
+<p>ASS: Não consegui achar nenhum site de hospedagem de graça com um banco de dados eficiente, então preferi deixar a solução de forma local, mesmo que seja um requisito para o teste técnico. </p>
