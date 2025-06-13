@@ -4,7 +4,10 @@
 
 <h3>Criar banco de dados:</h3>
 
-  <p>Crie o banco de dados importando o arquivo crud.sql, na pasta DB dentro do seu phpMyAdmin, com o XAMPP.</p>
+<p>Crie o banco de dados importando o arquivo crud.sql, na pasta DB dentro do seu phpMyAdmin, com o XAMPP.</p>
+
+<h3>Como conectar o banco de dados ao código:</h3>
+<p>Dentro da pasta crud e depois na pasta conexao, edite o arquivo conexao com as informações do banco de dados criado por você</p>
 
 <h3>Pasta para o código rodar:</h3>
 
