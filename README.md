@@ -1,5 +1,7 @@
 # CRUD-PHP
 
+<h2>Link do código hospedado: https://cauatpa.byethost3.com/index.php</h2>
+
 <h2>PASSO A PASSO PARA RODAR O CÓDIGO DE FORMA LOCAL</h2>
 
 <h3>Baixar o XAMPP:</h3>
@@ -23,6 +25,3 @@
 <h2>Após executar todo o passo a passo isso deve aparecer em seu navegador:</h2>
 
 ![image](https://github.com/user-attachments/assets/7c12fb3d-ce96-41e2-b726-e0dbceb25496)
-
-<br>
-<p>ASS: Não consegui achar nenhum site de hospedagem de graça com um banco de dados eficiente, então preferi deixar a solução de forma local, mesmo que seja um requisito para o teste técnico. </p>
