@@ -2,6 +2,9 @@
 
 <h2>PASSO A PASSO PARA RODAR O CÓDIGO DE FORMA LOCAL</h2>
 
+<h3>Baixar o XAMPP:</h3>
+<p>Recomendo o download do XAMPP para rodar localmente o código, link: https://www.apachefriends.org/pt_br/index.html</p>
+
 <h3>Criar banco de dados:</h3>
 
 <p>Crie o banco de dados importando o arquivo crud.sql, na pasta DB dentro do seu phpMyAdmin, com o XAMPP.</p>
